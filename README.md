@@ -173,4 +173,4 @@ As probabilidades e previsões são baseadas em modelo estatístico e têm fins 
 
 **Maria Fernanda Pereira**  
 Analista de Dados & Business Intelligence  
-[LinkedIn](https://linkedin.com/in/seu-perfil) · [GitHub](https://github.com/seu-usuario)
+[LinkedIn](https://www.linkedin.com/in/mariafernandapereiracarvalho/) · [GitHub](https://github.com/mafefpereira-creator)
